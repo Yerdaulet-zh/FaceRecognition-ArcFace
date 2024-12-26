@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+faces_webface_112x112/
+IMDb-Face/
+lfw-deepfunneled/
+
+IMDb-Face.csv
+sampled_df.csv
+
+Untitled.ipynb
+ArcFace-criterion.ipynb
+
