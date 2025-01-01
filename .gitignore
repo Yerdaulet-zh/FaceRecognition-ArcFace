@@ -2,9 +2,22 @@
 faces_webface_112x112/
 IMDb-Face/
 lfw-deepfunneled/
+imdb_crop/
+wiki_crop/
+
 
 IMDb-Face.csv
 sampled_df.csv
+lfw_allnames.csv
+lfw_readme.csv
+matchpairsDevTest.csv
+matchpairsDevTrain.csv
+mismatchpairsDevTest.csv
+mismatchpairsDevTrain.csv
+pairs.csv
+people.csv
+peopleDevTest.csv
+peopleDevTrain.csv
 
 Untitled.ipynb
 # ArcFace-criterion.ipynb
