@@ -22,7 +22,8 @@ wiki_imdb_lfw.csv
 wiki.csv
 imdb.csv
 
-
+encoder.json
+decoder.json
 Untitled.ipynb
 # ArcFace-criterion.ipynb
 
