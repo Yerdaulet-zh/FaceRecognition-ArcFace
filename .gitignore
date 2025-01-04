@@ -18,6 +18,10 @@ pairs.csv
 people.csv
 peopleDevTest.csv
 peopleDevTrain.csv
+wiki_imdb_lfw.csv
+wiki.csv
+imdb.csv
+
 
 Untitled.ipynb
 # ArcFace-criterion.ipynb
