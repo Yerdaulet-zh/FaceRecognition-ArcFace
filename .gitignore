@@ -4,6 +4,7 @@ IMDb-Face/
 lfw-deepfunneled/
 imdb_crop/
 wiki_crop/
+models/
 
 
 IMDb-Face.csv
